@@ -1,0 +1,11 @@
+,total_cases_per_million,total_deaths_per_million,people_fully_vaccinated_per_hundred,median_age,gdp_per_capita,population_density,hospital_beds_per_thousand,diabetes_prevalence,cardiovasc_death_rate,human_development_index
+total_cases_per_million,1.0,0.452,0.2184,0.0963,0.3619,0.0513,0.228,-0.0185,-0.4567,-0.0125
+total_deaths_per_million,0.452,1.0,0.1072,0.4407,0.2485,-0.0341,0.3619,0.0692,-0.0713,0.2922
+people_fully_vaccinated_per_hundred,0.2184,0.1072,1.0,0.1464,0.4207,0.1627,0.1461,0.0826,-0.2826,0.1888
+median_age,0.0963,0.4407,0.1464,1.0,0.479,0.0041,0.4768,0.236,0.2651,0.6684
+gdp_per_capita,0.3619,0.2485,0.4207,0.479,1.0,0.2738,0.3066,0.1986,-0.1589,0.4523
+population_density,0.0513,-0.0341,0.1627,0.0041,0.2738,1.0,0.1349,-0.0322,-0.1747,-0.116
+hospital_beds_per_thousand,0.228,0.3619,0.1461,0.4768,0.3066,0.1349,1.0,0.1229,0.2168,0.4803
+diabetes_prevalence,-0.0185,0.0692,0.0826,0.236,0.1986,-0.0322,0.1229,1.0,0.2603,0.321
+cardiovasc_death_rate,-0.4567,-0.0713,-0.2826,0.2651,-0.1589,-0.1747,0.2168,0.2603,1.0,0.4178
+human_development_index,-0.0125,0.2922,0.1888,0.6684,0.4523,-0.116,0.4803,0.321,0.4178,1.0
