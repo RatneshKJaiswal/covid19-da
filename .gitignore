@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.crc
+
+# Virtual Environment
+.venv/
+env/
+venv/
+
+# Streamlit
+.streamlit/credentials.toml
+
+# macOS
+.DS_Store
+
+# Temporary & checkpoint files
+.ipynb_checkpoints/
+*.tmp
+
